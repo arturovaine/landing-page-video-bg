@@ -16,7 +16,7 @@ This project is a modern home page built using Vite and React. It features a sid
 
 Ensure you have the following software installed:
 
-- Node.js (version 14.x or higher)
+- Node.js (version 22.x or higher)
 - npm (usually comes with Node.js)
 - Git
 
