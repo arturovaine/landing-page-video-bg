@@ -1,6 +1,8 @@
 # Home page with access form - React + Vite
 
-Vite/React App - Landing Page with Sidebar Access and Background Video
+Vite/React App - Home Page with Sidebar Access and Background Video
+
+![Demo](./public/demo.gif)
 
 This project is a modern home page built using Vite and React. It features a sidebar for user authentication (login and password inputs) and a corporate video playing in the background. The primary goal is to create an engaging and functional home page for corporate websites or applications.
 
